@@ -1,3 +1,3 @@
-# Temporary repository
+# Bits 'n pieces 
 
-For first attempts and all.
+For posting bits 'n pieces of code when applicable and/or useful.
